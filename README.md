@@ -15,11 +15,33 @@ Badge | Name | Subject | Synopsis | Skills |
 | ![fract-olm](https://github.com/user-attachments/assets/6393d321-fabe-441d-b22e-d711f16b08c6) | <div align="center">**[fract-ol](https://github.com/MayaraMCarvalho/42--5_Fract-ol)**</div> | Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX. | *Teaches how to manipulate a low-level graphics library and advanced mathematical concepts. It consists of creating fractals from complex numbers in an iterative mathematical structure.*	| <ul><li>Imperative programming</li><li>Graphics</li><ul> |
 | ![minitalkm](https://github.com/user-attachments/assets/dfbd3c6b-bb3a-4ba2-9301-9e94aaf27c29) | <div align="center">**[minitalk](https://github.com/MayaraMCarvalho/42--6_Minitalk)**</div> | The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus. | *It consists of creating a data exchange program that uses UNIX signals to allow communication between a client and a server. The objective is to send a string from the client to the server using only the SIGUSR1 and SIGUSR2 signals.*	| <ul><li>Rigor</li><li>Unix</li><ul> |
 
+## Phase 2
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dbec2c5d-c26e-4fb1-81d5-d1e9c9014151" alt="phase_twoe">
+</div>
+
+Badge | Name | Subject | Synopsis | Skills |
+|---	|---	|---	|---	|---	|
+| ![push_swape](https://github.com/user-attachments/assets/4b31a810-7d73-42a1-85b5-e7192501cf54) | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
+| ![minishelle](https://github.com/user-attachments/assets/75f5cbe5-f0f6-4bfa-bbeb-581985d4c8fe) | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
+| ![philosopherse](https://github.com/user-attachments/assets/8bd904d6-e0cd-44bf-91b0-f6bd47227c4a) | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
+| ![netpracticee](https://github.com/user-attachments/assets/dbace05c-8a50-4fbb-b612-342c38dc0854) | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
+| ![cub3dm](https://github.com/user-attachments/assets/85f0b138-0595-4d15-8572-5e52e61b3951) | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
 
 
+## Phase 3
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6eb3b299-b777-439d-bc27-b69b7fd9e34f" alt="phase_threen">
+</div>
+
+Badge | Name | Subject | Synopsis | Skills |
+|---	|---	|---	|---	|---	|
+| link do badge | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
 
 
+<!--
 Model
 Badge | Name | Subject | Synopsis | Skills |
 |---	|---	|---	|---	|---	|
-| link do badge | <div align="center">**[libft](https://github.com/MayaraMCarvalho/42--1_Libft)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Rigor</li><li>Algorithms & AI</li><li>Imperative programming</li><ul> |
+| link do badge | <div align="center">**[nome](https://github.com/MayaraMCarvalho/link)**</div> | Descrição | *Detalhes do Projeto*	| <ul><li>Item 1</li><li>Item 2</li><li>Item ...</li><ul> |
+-->
