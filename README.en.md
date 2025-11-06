@@ -1,7 +1,7 @@
 # 42-Common_Core
 Common Core Projects - 42 São Paulo
 
-Available in: [🇧🇷 Português](Readme.md)
+Available in: [🇧🇷 Português](README.md)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f421ee8f-01f9-4fca-a7de-9985c5a81123" alt="common_coren">
