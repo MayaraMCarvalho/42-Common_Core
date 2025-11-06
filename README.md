@@ -1,7 +1,7 @@
 # 42-Common_Core
 Projetos do "Common Core" - 42 São Paulo
 
-Available in: [🇺🇸 English](Readme.en.md)
+Available in: [🇺🇸 English](README.en.md)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f421ee8f-01f9-4fca-a7de-9985c5a81123" alt="common_coren">
